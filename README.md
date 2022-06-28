@@ -14,7 +14,7 @@ http://localhost:3099/docs
 ## Clone repository
 
 ```bash
-$ git clone https://github.com/denerbatista/pizza-fresh-server.git
+$ git clone https://github.com/maycomorais/pizza-lovers.git
 ```
 
 ## Installation
